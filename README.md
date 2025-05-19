@@ -70,4 +70,5 @@ Architecture: Desktop application with role-based access
 This project is a fantastic way to understand how real-world ticketing applications work. It’s not only a great academic submission but also a strong foundation for building more complex inventory and booking systems.
 
 ➡️ Check out the project and get started
+https://projectsforeveryone.com/project/movie-ticket-booking-system-in-java/
 
